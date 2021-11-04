@@ -42,5 +42,17 @@ public class Main {
         if(ger instanceof Object){
             System.out.println("Gerente es instancia de object");
         }
+        
+        System.out.println("#############Ballena#############");
+        Ballena ballena = new Ballena(16,"Sally","Subcontinente Indio", "gris", 2);
+        System.out.println(ballena);
+        
+        System.out.println("#############Perro#############");
+        Perro perro = new Perro("Azul",4,"Firulais", "Estados unidos","Blanco");
+        System.out.println(perro);
+        
+        System.out.println("#############Pajaro#############");
+        Pajaro pajaro = new Pajaro("Curvo",2,"Alita", "América del Sur", "Amerillo");
+        System.out.println(pajaro);
     }
 }

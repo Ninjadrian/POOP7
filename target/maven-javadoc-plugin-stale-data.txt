@@ -1,0 +1,43 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP7/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP7/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP7 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/lenovo/Documents/NetBeansProjects/POOP7/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP7 1.0-SNAPSHOT API'
+com.mycompany.poop7
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP7/src/main/java/com/mycompany/poop7/Empleado.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP7/src/main/java/com/mycompany/poop7/Gerente.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP7/src/main/java/com/mycompany/poop7/Main.java'
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\src\main\java = 1635423183914
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\allclasses-frame.html = 1635427968339
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\allclasses-noframe.html = 1635427968343
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\constant-values.html = 1635427968239
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\deprecated-list.html = 1635427968327
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\help-doc.html = 1635427968357
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\index-all.html = 1635427968314
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\index.html = 1635427968351
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\overview-tree.html = 1635427968295
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\package-list = 1635427968202
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\script.js = 1635427968367
+C:\Users\lenovo\Documents\NetBeansProjects\POOP7\target\site\apidocs\stylesheet.css = 1635427968362

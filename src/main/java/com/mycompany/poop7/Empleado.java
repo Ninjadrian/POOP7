@@ -24,7 +24,6 @@ public class Empleado {
     }
     
     
-
     public String getNombre() {
         return nombre;
     }
@@ -61,7 +60,5 @@ public class Empleado {
     public String toString() {
         return super.toString()+ //datos de la clase object
                 "Empleado{" + "nombre=" + nombre + ", numEmpleado=" + numEmpleado + ", sueldo=" + sueldo + '}';
-    }
-
-       
+    }     
 }

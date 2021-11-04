@@ -9,15 +9,15 @@ package com.mycompany.poop7;
  *
  * @author lenovo
  */
-public class Gerente extends Empleado{ //GErente estiende de niestro empleado
+public class Gerente extends Empleado{                                          //Gerente extiende de nueestro empleado
     private int presupuesto;
     private boolean presupuestoAsignado;
 
     public Gerente() {
     }
 
-    public Gerente(String nombre, int numEmpleado, int sueldo, int presupuesto) {
-        super(nombre, numEmpleado, sueldo); //hace referenci al de arriba
+    public Gerente(String nombre, int numEmpleado, int sueldo, int presupuesto){
+        super(nombre, numEmpleado, sueldo);                                     //hace referenci al de arriba
         this.presupuesto = presupuesto;
         presupuestoAsignado = true;
     }
@@ -41,8 +41,6 @@ public class Gerente extends Empleado{ //GErente estiende de niestro empleado
 
     @Override
     public String toString() {
-        return super.toString() +
-                "Gerente{" + "presupuesto=" + presupuesto + ", presupuestoAsignado=" + presupuestoAsignado + '}';
-    }
-    
+        return "Gerente{" + "presupuesto=" + presupuesto + ", presupuestoAsignado=" + presupuestoAsignado + '}';
+    }  
 }
